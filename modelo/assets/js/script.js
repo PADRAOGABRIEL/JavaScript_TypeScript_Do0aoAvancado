@@ -32,7 +32,10 @@ function criaP(){
 
 function getNivelImc(imc){
     const niveis = ['Abaixo do peso', 'Peso normal', 'Sobrepeso', 
+
     'Obesidade Grau 1','Obesidade Grau 2','Obesidade Grau 3']
+
+
 
     if(imc > 39.9){
         return niveis[5]
