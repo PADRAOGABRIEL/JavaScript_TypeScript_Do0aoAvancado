@@ -66,3 +66,9 @@ form button:hover {
     background-color: red;
     padding: 10px 20px;
 }
+
+#infos{
+  font-weight: 2000;
+  font-size: 18px;
+  line-height: 15px;
+}
