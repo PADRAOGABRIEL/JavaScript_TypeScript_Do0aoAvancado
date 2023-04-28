@@ -1,0 +1,26 @@
+{
+  "name": "javascript_typescript_do0aoavancado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Ex01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel": "babel ./main.js -o bundle.js --presets=@babel/env -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PADRAOGABRIEL/JavaScript_TypeScript_Do0aoAvancado.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PADRAOGABRIEL/JavaScript_TypeScript_Do0aoAvancado/issues"
+  },
+  "homepage": "https://github.com/PADRAOGABRIEL/JavaScript_TypeScript_Do0aoAvancado#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.4",
+    "@babel/preset-env": "^7.21.4"
+  }
+}
