@@ -1,4 +1,6 @@
-// 1
-// 2
-// 3
-console.log('EIIIIIIIIIIIIIIIIIIIIIII');
+const nome = gabriel
+
+const novoobjs = {
+    nome: gabriel,
+    altura: 185
+}
